@@ -1,0 +1,26 @@
+[
+	{
+	    "title" : "This is the first stick", 
+	    "caption"   : "Whats brown and sticky? A stick!",
+	    "imageUrl" : "img/stickOne.jpg",
+	    "credits": "Mother Nature. aka Dreamstime.com"
+	},
+	{
+	    "title" : "This is the second stick", 
+	    "caption"   : "How many sticks grow on a tree? All of them!",
+	   	"imageUrl" : "img/stickTwo.jpg",
+	    "credits": "Mother Nature. aka Dreamstime.com"
+	},
+	{
+	    "title" : "This is the third stick", 
+	    "caption"   : "What do you call a boomerang that doesn't work? A stick!",
+	   	"imageUrl" : "img/stickThree.jpg",
+	    "credits": "Mother Nature. aka Dreamstime.com"
+	},
+	{
+	    "title" : "This is the fourth stick", 
+	    "caption"   : "what's brown and sticky? Parcel tape!",
+	   	"imageUrl" : "img/stickFour.jpg",
+	    "credits": "Mother Nature. aka Dreamstime.com"
+	}
+]
